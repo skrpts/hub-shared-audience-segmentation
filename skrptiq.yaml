@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "797438f4-9f66-4899-b1bc-6c6373ca4170"
+name: "audience-segmentation"
+display_name: "Audience Segmentation"
+description: "Divides target markets into actionable segments based on behaviour and demographics"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-audience-segmentation"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
