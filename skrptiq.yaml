@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "797438f4-9f66-4899-b1bc-6c6373ca4170"
+id: "977ca840-8322-4df1-bc13-98d43b3e41a8"
 name: "audience-segmentation"
 display_name: "Audience Segmentation"
 description: "Divides target markets into actionable segments based on behaviour and demographics"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
